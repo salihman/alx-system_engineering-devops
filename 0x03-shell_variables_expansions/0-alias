@@ -1,2 +1,2 @@
 #!/bin/bash
-O-aias l$='rm*'
+0-alias l$='rm*'
