@@ -1,2 +1,2 @@
 #!/bin/bash
-O-aias ls='rm*'
+O-aias l$='rm*'
